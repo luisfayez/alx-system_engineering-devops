@@ -1,4 +1,3 @@
 
-#!/bib/bash
-cp -un*.html ../
-
+#!/bin/bash
+cp -un *.html ../
